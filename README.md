@@ -6,7 +6,8 @@ This project is an interactive Sales Performance Dashboard developed using Micro
 
 ## Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](dashboard.jpeg)
+
 
 ## Features
 
